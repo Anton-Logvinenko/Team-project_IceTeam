@@ -5,7 +5,7 @@
   "homepage": "https://Anton-Logvinenko.github.io/Team-project_IceTeam",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceTeam/"
+    "build": "parcel build src/*.html --public-url /Team-project_IceTeam/"
   },
   "repository": {
     "type": "git",
