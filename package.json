@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RuslanManoilo.github.io/IceTeam",
+  "homepage": "https://Anton-Logvinenko.github.io/Team-project_IceTeam",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /IceTeam/"
